@@ -17,6 +17,12 @@ The project utilizes **4 distinct interconnected relational tables**:
 ### 1. Financial Performance
 * **Total Revenue:** Evaluated dynamically using an `INNER JOIN` of unit scales and price matrices.
 * **Average Order Value (AOV):** Calculated as `Total Revenue / COUNT(DISTINCT order_id)`. The benchmark output is approximately **38.31**.
+
+• Total Revenue: ₹817,860.05
+• Total Orders: 21,350
+• Total Pizzas Sold: 49,574
+• Average Order Value (AOV): ₹38.31
+
 * **Average Pizzas Per Order:** Calculated using transaction volumes showing that a typical customer orders **2.32** pizzas per checkout sequence.
 
 ### 2. Operational Volume Metrics
