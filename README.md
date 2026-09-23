@@ -43,3 +43,7 @@ The project utilizes **4 distinct interconnected relational tables**:
 * **Database Engine:** MySQL Workbench
 * **SQL Core Skills:** Multi-Table Inner Joins, Subqueries for Percentages, Group By Aggregations, Data Parsing (`MONTHNAME`, `DAYNAME`), Output Constraints (`LIMIT`, `ORDER BY ASC/DESC`).
 
+## 📂 Project Deliverables Available
+* **`pizza_queries.sql`**: Full end-to-end MySQL scripts for financial metrics calculation.
+* **`pizza_sales_presentation.pptx`**: Executive-level PowerPoint slides summarizing key business recommendations for stakeholders.
+
